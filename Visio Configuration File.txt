@@ -1,0 +1,19 @@
+[16:07] Holla Sathish
+<Configuration ID="90792288-fb6d-44f4-9bf3-d9cf47b7637f">
+<Add OfficeClientEdition="64" Channel="PerpetualVL2021">
+<Product ID="VisioPro2021Volume">
+<Language ID="en-gb" />
+<Language ID="MatchPreviousMSI" />
+<ExcludeApp ID="Access" />
+<ExcludeApp ID="Lync" />
+<ExcludeApp ID="OneDrive" />
+<ExcludeApp ID="OneNote" />
+<ExcludeApp ID="Outlook" />
+<ExcludeApp ID="PowerPoint" />
+<ExcludeApp ID="Publisher" />
+<ExcludeApp ID="Teams" />
+<ExcludeApp ID="Word" />
+</Product>
+</Add>
+</Configuration>
+
