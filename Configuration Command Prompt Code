@@ -1,0 +1,3 @@
+setup.exe /download filename.XML
+
+Setup.exe /configure filename.XML
